@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Dc6Mid';
+
+  cur_rate = 0;
 }
